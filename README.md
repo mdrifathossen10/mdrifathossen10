@@ -1,43 +1,52 @@
-![Semiconductor Research Banner](Futuristic%20Semiconductor%20Research%20Banner.png)
-Hi, I'm Md. Rifat Hossen 👋
 
-EEE Undergraduate | Aspiring Researcher | Electronics & Semiconductor Technology
+![Semiconductor Research Banner](Futuristic%20Semiconductor%20Research%20Banner.png)
+
+# Hi, I'm Md. Rifat Hossen 👋
+
+**EEE Undergraduate | Aspiring Researcher | Electronics & Semiconductor Technology**
 
 I'm an Electrical and Electronic Engineering undergraduate at Rajshahi University of Engineering & Technology (RUET), passionate about research, innovation, and emerging semiconductor technologies.
 
-My primary research interests include:
+## 🔬 Research Interests
 
-🔬 MicroLED Technology
+- 🔬 MicroLED Technology
+- ⚡ Semiconductor Devices
+- 💡 Optoelectronics
+- 🧪 Electronic Device Simulation
+- 🤖 Computational Research
 
-⚡ Semiconductor Devices
+## 🛠️ Technical Skills
 
-💡 Optoelectronics
+- **Simulation:** COMSOL Multiphysics
+- **Programming:** Python, MATLAB
+- **Research:** Semiconductor Device Modeling & Simulation
 
-🧪 Electronic Device Simulation
+## 🚀 Featured Research Projects
 
-🤖 Computational Research
+My research and computational projects focus on semiconductor technology, numerical simulation, and scientific programming.
 
-🛠️ Technical Skills
+| Project | Description | Technology |
+|---|---|---|
+| **Python for Semiconductor Research** | Scientific programming, numerical analysis, and semiconductor research computations. | Python |
+| **MATLAB Device Simulation** | Numerical modeling, device characteristics, and simulation-based analysis. | MATLAB |
+| **COMSOL Simulation Projects** | Semiconductor device modeling and multiphysics simulation studies. | COMSOL Multiphysics |
 
-Simulation: COMSOL Multiphysics
+*Project repositories will be linked here as they are created and published.*
 
-Programming: Python, MATLAB
+## 🎓 Education
 
-Research: Semiconductor Device Modeling & Simulation
+**Rajshahi University of Engineering & Technology (RUET)**
 
-🎓 Education
-
-Rajshahi University of Engineering & Technology (RUET)
 Bachelor of Science in Electrical and Electronic Engineering
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rifat-hossen-350476383/
-
-GitHub: https://github.com/mdrifathossen10
+- **LinkedIn:** [Md. Rifat Hossen](https://www.linkedin.com/in/rifat-hossen-350476383/)
+- **GitHub:** [mdrifathossen10](https://github.com/mdrifathossen10)
 
 Exploring semiconductor technology, advancing research, and building innovative solutions.
 
+---
 
 ## 📊 GitHub Statistics
 
@@ -53,5 +62,5 @@ Exploring semiconductor technology, advancing research, and building innovative 
 </p>
 
 ## 📈 Contribution Activity
-![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/mdrifathossen10)
 
+![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/mdrifathossen10)
