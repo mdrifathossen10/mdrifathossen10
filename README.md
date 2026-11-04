@@ -42,8 +42,8 @@ Exploring semiconductor technology, advancing research, and building innovative 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrifathossen10&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrifathossen10&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mdrifathossen10&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdrifathossen10&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ## 🔥 Contribution Streak
