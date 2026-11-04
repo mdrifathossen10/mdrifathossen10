@@ -53,7 +53,5 @@ Exploring semiconductor technology, advancing research, and building innovative 
 </p>
 
 ## 📈 Contribution Activity
+![GitHub Contribution Calendar](https://ghchart.rshah.org/409ba5/mdrifathossen10)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrifathossen10&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
