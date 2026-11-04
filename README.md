@@ -1,3 +1,4 @@
+![Semiconductor Research Banner](Futuristic%20Semiconductor%20Research%20Banner.png)
 Hi, I'm Md. Rifat Hossen 👋
 
 EEE Undergraduate | Aspiring Researcher | Electronics & Semiconductor Technology
