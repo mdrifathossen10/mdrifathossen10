@@ -23,15 +23,22 @@ I'm an Electrical and Electronic Engineering undergraduate at Rajshahi Universit
 
 ## 🚀 Featured Research Projects
 
-My research and computational projects focus on semiconductor technology, numerical simulation, and scientific programming.
+My research and computational interests focus on semiconductor technology, numerical modeling, and scientific programming.
 
-| Project | Description | Technology |
-|---|---|---|
-| **Python for Semiconductor Research** | Scientific programming, numerical analysis, and semiconductor research computations. | Python |
-| **MATLAB Device Simulation** | Numerical modeling, device characteristics, and simulation-based analysis. | MATLAB |
-| **COMSOL Simulation Projects** | Semiconductor device modeling and multiphysics simulation studies. | COMSOL Multiphysics |
+### 🐍 Python for Semiconductor Research
+Scientific programming, numerical analysis, data processing, and computational research related to semiconductor devices.
 
-*Project repositories will be linked here as they are created and published.*
+**Technology:** Python
+
+### 📊 MATLAB Device Simulation
+Numerical modeling, semiconductor device characteristics, mathematical analysis, and simulation-based research.
+
+**Technology:** MATLAB
+
+### ⚡ COMSOL Simulation Projects
+Semiconductor device modeling, electrical simulation, optoelectronic device analysis, and multiphysics simulation studies.
+
+**Technology:** COMSOL Multiphysics
 
 ## 🎓 Education
 
@@ -44,9 +51,9 @@ Bachelor of Science in Electrical and Electronic Engineering
 - **LinkedIn:** [Md. Rifat Hossen](https://www.linkedin.com/in/rifat-hossen-350476383/)
 - **GitHub:** [mdrifathossen10](https://github.com/mdrifathossen10)
 
-Exploring semiconductor technology, advancing research, and building innovative solutions.
-
 ---
+
+*Exploring semiconductor technology, advancing research, and building innovative solutions.*
 
 ## 📊 GitHub Statistics
 
