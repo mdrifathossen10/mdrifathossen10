@@ -38,11 +38,18 @@ GitHub: https://github.com/mdrifathossen10
 
 Exploring semiconductor technology, advancing research, and building innovative solutions.
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrifathossen10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdrifathossen10&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrifathossen10&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdrifathossen10&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Activity
@@ -50,4 +57,3 @@ Exploring semiconductor technology, advancing research, and building innovative 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrifathossen10&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
-
